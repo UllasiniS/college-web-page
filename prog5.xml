@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="prg5css.css"?>
+<students>
+<student1>
+        <usn>4VV17CS106</usn>
+		<name>Ullasini</name>
+		<clg>vvce</clg>
+		<branch>cse</branch>
+		<year>2017</year>
+		<email>ullasinismys@gmail.com</email>
+</student1>
+<student2>
+        <usn>4VV17CS110</usn>
+		<name>Vaibhavi</name>
+		<clg>gsss</clg>
+		<branch>cse</branch>
+		<year>2017</year>
+		<email>vaibhavi@gmail.com</email>
+</student2>
+<student3>
+        <usn>4VV17CS094</usn>
+		<name>raksha</name>
+		<clg>jce</clg>
+		<branch>cse</branch>
+		<year>2018</year>
+		<email>raksha2000@gmail.com</email>
+</student3>
+</students>
